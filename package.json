@@ -1,8 +1,12 @@
 {
-  "name": "website-tippay",
+  "name": "gfjour-security",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "GFJOUR Team",
+    "email": "contact@gfjour.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
